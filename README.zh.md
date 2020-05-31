@@ -39,4 +39,4 @@ $ FSLG_FILE_URI=your_file_original_uri FSLG_DOWNLOAD_PASSWORD=your_download_pass
 3. 触发 CI 任务
 
 4. 在 CI 日志的最后拿到 Firefox Send 链接
-test3
+test4
